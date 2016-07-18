@@ -42,7 +42,7 @@
                     Menu <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i> <span class="light">Start</span> Daily Reminder
+                    <i class="fa fa-play-circle"></i> <span class="light"></span> Daily Reminder
                 </a>
             </div>
 
