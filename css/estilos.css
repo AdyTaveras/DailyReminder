@@ -1,0 +1,26 @@
+header nav {
+	background:#274f5e;
+	overflow: hidden;
+}
+header nav ul {
+	list-style-type: none;
+}
+header nav ul li a {
+	padding: 10px 20px;
+	display: block;
+	color:#fff;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+.btn-lg:hover {
+	background: #cc3131;
+	text-decoration: none;
+	color:#fff;
+}
+header nav ul li a:active {
+	text-decoration: none;
+}
+.menuActivo{
+	background-color:#EB4545;
+}
